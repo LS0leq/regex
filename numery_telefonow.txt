@@ -1,0 +1,82 @@
+Witaj! Oto przykładowe numery telefonów do ćwiczeń z regex:
+
+1. +48 588-231-118 - Zadzwoń, jeśli masz pytania.
+2. +48 963-549-224 - Kontakt do biura obsługi klienta.
+3. +48 628-349-167 - Rezerwacja wizyty.
+4. +48 101-168-114 - Pilny kontakt w sprawie zamówienia.
+5. +48 402-736-694 - Infolinia dostępna całą dobę.
+6. +48 158-790-668 - Zarezerwuj termin rozmowy.
+7. +48 948-951-732 - Pomoc techniczna.
+8. +48 666-675-744 - Dział reklamacji.
+9. +48 790-903-584 - Telefon do działu sprzedaży.
+10. +48 359-949-613 - Obsługa zwrotów.
+11. +48 223-860-762 - Skontaktuj się w godzinach pracy.
+12. +48 945-762-315 - Bezpośredni numer do doradcy.
+13. +48 649-196-975 - Potwierdzenie rezerwacji.
+14. +48 296-335-120 - Telefon alarmowy.
+15. +48 455-636-844 - Dział kadr i HR.
+16. +48 860-140-972 - Informacje o produktach.
+17. +48 516-243-358 - Zamówienia telefoniczne.
+18. +48 884-343-286 - Pomoc w sprawach technicznych.
+19. +48 796-250-185 - Rezerwacja stolika w restauracji.
+20. +48 755-549-714 - Kontakt dla partnerów biznesowych.
+21. +48 734-478-549 - Umówienie wizyty serwisowej.
+22. +48 513-929-913 - Obsługa klienta premium.
+23. +48 512-524-433 - Skontaktuj się w sprawie płatności.
+24. +48 373-523-186 - Telefon do kuriera.
+25. +48 521-622-731 - Zapytania ofertowe.
+26. +48 498-553-284 - Infolinia medyczna.
+27. +48 232-890-630 - Numer do konsultanta.
+28. +48 910-414-286 - Kontakt do działu prawnego.
+29. +48 909-709-834 - Biuro prasowe.
+30. +48 956-696-227 - Rezerwacja transportu.
+31. +48 384-763-568 - Biuro rachunkowe.
+32. +48 590-408-773 - Obsługa gwarancyjna.
+33. +48 472-965-328 - Zgłoszenia awarii.
+34. +48 697-337-972 - Numer kontaktowy do administracji.
+35. +48 149-474-945 - Zapytania o faktury.
+36. +48 620-623-568 - Telefon do konsultanta technicznego.
+37. +48 325-326-157 - Potwierdzenie zamówienia.
+38. +48 445-630-349 - Rezerwacja hotelowa.
+39. +48 265-402-946 - Telefon do działu wsparcia.
+40. +48 827-268-420 - Pomoc w sprawie konta klienta.
+41. +48 374-353-112 - Kontakt dla mediów.
+42. +48 666-154-695 - Skontaktuj się w sprawie ubezpieczenia.
+43. +48 723-879-525 - Numer do działu księgowości.
+44. +48 613-925-690 - Obsługa zamówień online.
+45. +48 531-935-998 - Telefon do serwisu komputerowego.
+46. +48 846-454-909 - Zgłoś usterkę.
+47. +48 810-719-910 - Biuro zarządu.
+48. +48 522-239-129 - Informacje o dostawie.
+49. +48 761-254-771 - Kontakt do przedstawiciela handlowego.
+50. +48 721-813-544 - Skontaktuj się w sprawie wyceny.
+
+Międzynarodowe numery:
+
+    +1 415-555-2671 - Kontakt w USA.
++44 20-7946-0958 - Kontakt w Wielkiej Brytanii.
++33 1-70-18-99-01 - Numer we Francji.
++49 170-1234567 - Numer w Niemczech.
++39 06-6988-991 - Numer w Włoszech.
++34 91-123-4567 - Numer w Hiszpanii.
++34 609-876-543 - Numer w Hiszpanii (inny).
++61 3-9010-1234 - Numer w Australii.
++1 212-555-7890 - Numer w Stanach Zjednoczonych.
++1 408-555-0911 - Inny numer w USA.
++44 7734-123456 - Numer w Wielkiej Brytanii.
++49 151-23456789 - Numer w Niemczech.
++55 11-98765-4321 - Numer w Brazylii.
++1 306-555-9876 - Numer w Kanadzie.
++27 21-123-4567 - Numer w RPA.
++33 1-45-67-89-10 - Numer we Francji.
++41 78-912-34-56 - Numer w Szwajcarii.
++52 55-1234-5678 - Numer w Meksyku.
++81 3-1234-5678 - Numer w Japonii.
++34 91-234-5678 - Numer w Hiszpanii.
++64 9-876-5432 - Numer w Nowej Zelandii.
++39 345-678-9012 - Numer w Włoszech.
++1 416-555-1234 - Numer w Kanadzie.
++61 2-9876-5432 - Numer w Australii.
++48 784-938-227 - Numer z Polski.
+
+To już wszystkie numery! Spróbuj wyodrębnić je za pomocą wyrażeń regularnych.
